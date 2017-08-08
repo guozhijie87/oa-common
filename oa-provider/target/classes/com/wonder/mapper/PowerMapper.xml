@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.wonder.mapper.PowerMapper" >
+  <resultMap id="BaseResultMap" type="com.wonder.entity.Power" >
+    <result column="role_id" property="roleId" jdbcType="BIGINT" />
+    <result column="module_id" property="moduleId" jdbcType="VARCHAR" />
+  </resultMap>
+
+</mapper>

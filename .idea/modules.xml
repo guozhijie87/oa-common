@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/oa-api/oa-api.iml" filepath="$PROJECT_DIR$/oa-api/oa-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oa-common.iml" filepath="$PROJECT_DIR$/oa-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oa-provider/oa-provider.iml" filepath="$PROJECT_DIR$/oa-provider/oa-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oa-web/oa-web.iml" filepath="$PROJECT_DIR$/oa-web/oa-web.iml" />
+    </modules>
+  </component>
+</project>
